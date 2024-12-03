@@ -1,0 +1,176 @@
+{
+    "gold": [
+        {
+            "time": "17:52",
+            "name": "سکه امامی",
+            "price": 51625000,
+            "change_percent": 0
+        },
+        {
+            "time": "17:52",
+            "name": "سکه بهار آزادی",
+            "price": 49615000,
+            "change_percent": -0.04
+        },
+        {
+            "time": "17:52",
+            "name": "نیم سکه",
+            "price": 27150000,
+            "change_percent": 0.67
+        },
+        {
+            "time": "17:52",
+            "name": "ربع سکه",
+            "price": 16850000,
+            "change_percent": 0.18
+        },
+        {
+            "time": "17:52",
+            "name": "سکه گرمی",
+            "price": 8000000,
+            "change_percent": -0.37
+        },
+        {
+            "time": "17:52",
+            "name": "انس طلا",
+            "price": 2652.88,
+            "change_percent": 0.42
+        },
+        {
+            "time": "17:52",
+            "name": "طلای 18 عیار",
+            "price": 4633200,
+            "change_percent": 0.9
+        }
+    ],
+    "currency": [
+        {
+            "time": "17:47:41",
+            "name": "دلار",
+            "price": 71250,
+            "change_percent": 0.57
+        },
+        {
+            "time": "17:30:07",
+            "name": "يورو",
+            "price": 74910,
+            "change_percent": 0.55
+        },
+        {
+            "time": "17:30:07",
+            "name": "درهم امارات",
+            "price": 19550,
+            "change_percent": 0.41
+        },
+        {
+            "time": "17:30:07",
+            "name": "پوند انگلیس",
+            "price": 90170,
+            "change_percent": 0.17
+        },
+        {
+            "time": "17:30:07",
+            "name": "لیر ترکیه",
+            "price": 2050,
+            "change_percent": 0.49
+        },
+        {
+            "time": "17:30:07",
+            "name": "یوان چین",
+            "price": 9770,
+            "change_percent": 0.31
+        },
+        {
+            "time": "17:51:45",
+            "name": "ین ژاپن",
+            "price": 47873,
+            "change_percent": 1
+        },
+        {
+            "time": "17:51:37",
+            "name": "دلار کانادا",
+            "price": 50780,
+            "change_percent": 0.95
+        },
+        {
+            "time": "17:51:37",
+            "name": "دلار استرالیا",
+            "price": 46230,
+            "change_percent": 1.12
+        },
+        {
+            "time": "17:51:37",
+            "name": "فرانک سوئیس",
+            "price": 80650,
+            "change_percent": 1.03
+        },
+        {
+            "time": "17:51:46",
+            "name": "افغانی",
+            "price": 1047,
+            "change_percent": 0
+        },
+        {
+            "time": "16:46:43",
+            "name": "دینار عراق",
+            "price": 55.5,
+            "change_percent": 0.54
+        },
+        {
+            "time": "17:50:54",
+            "name": "روبل روسیه",
+            "price": 673,
+            "change_percent": 0.6
+        },
+        {
+            "time": "17:51:37",
+            "name": "بات تایلند",
+            "price": 2074,
+            "change_percent": 1.02
+        },
+        {
+            "time": "12:26:51",
+            "name": "درام ارمنستان",
+            "price": 179,
+            "change_percent": 0
+        },
+        {
+            "time": "17:51:37",
+            "name": "روپیه هند",
+            "price": 842,
+            "change_percent": 0.84
+        }
+    ],
+    "cryptocurrency": [
+        {
+            "time": "17:51:45",
+            "name": "بیت کوین",
+            "price": 94314.17,
+            "change_percent": -2.02
+        },
+        {
+            "time": "17:51:45",
+            "name": "اتریوم",
+            "price": 3564.81,
+            "change_percent": -1.68
+        },
+        {
+            "time": "17:51:49",
+            "name": "دش",
+            "price": 57.31,
+            "change_percent": 7.77
+        },
+        {
+            "time": "17:51:45",
+            "name": "ریپل",
+            "price": 2.54,
+            "change_percent": -8.66
+        },
+        {
+            "time": "17:51:46",
+            "name": "لایت کوین",
+            "price": 126.04,
+            "change_percent": -7.24
+        }
+    ]
+}
